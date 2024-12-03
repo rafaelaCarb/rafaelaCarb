@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Rafaela Bandeira</h1>
 
 ###
